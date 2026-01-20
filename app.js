@@ -524,8 +524,6 @@ function projectCard(p){
         </div>
         <div class="row">
           <button class="btn small" data-action="drive" data-id="${p.id}" type="button">Drive</button>
-          <button class="btn small" data-action="edit" data-id="${p.id}" type="button">Edit</button>
-          <button class="btn small danger" data-action="delete" data-id="${p.id}" type="button">Delete</button>
         </div>
       </div>
     </div>
